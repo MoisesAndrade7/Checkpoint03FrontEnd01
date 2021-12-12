@@ -1,0 +1,36 @@
+html{
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+
+.banner{
+    height: 100vh;
+    background-attachment:scroll;
+    z-index: -1;
+    background-image: url("Front-End I\Checkpoint03\IMG\bgfilmes.jpg");
+}
+ button{
+    align-content: center;
+ }
+
+ #footer{
+     height: 130px;
+     color:aliceblue;
+     background-color: #212529;
+
+ }
+
+ ul{
+     list-style: none;
+ }
+
+ .btn-primary{
+     align-content:center;
+     margin-bottom: 10px;
+ }
+
+ .card:hover{
+     transform: (2);
+
+ }
